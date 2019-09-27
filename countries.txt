@@ -6,3 +6,5 @@ US
 Mexico 
 Canada 
 France
+Brazil
+Columbia 
