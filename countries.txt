@@ -8,3 +8,5 @@ Canada
 France
 Brazil
 Columbia 
+Spain 
+Guatemala
